@@ -1,0 +1,27 @@
+
+[
+{
+"name":"Upaban Express ",
+"class":"Business",
+"departure": "Dhaka Kamalapur Railway Station",
+"arrival":"Chittagong Railway Station"
+},
+{
+"name":"Silk city Express",
+"class":"Economics",
+"departure": "Sylhet Station",
+"arrival":"Dhaka Kamalapur Railway Station"
+},
+{
+"name":"Sundarban Express",
+"class":"Economics",
+"departure": "Khulna Railway station",
+"arrival":"Bandarban Station"
+}
+]
+2
+Biman Bondor Railway Station
+Chittagong
+11/8/2022
+18/8/2022
+Business/Economy
